@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<DeviceUsageSummary rev="16">
+<DesignStatistics TimeStamp="Sat Jul 17 16:35:16 2021"><group name="NetStatistics">
+<item name="NumNets_Active" rev="16">
+<attrib name="value" value="1"/></item>
+<item name="NumNets_Gnd" rev="16">
+<attrib name="value" value="1"/></item>
+<item name="NumNodesOfType_Gnd_DOUBLE" rev="16">
+<attrib name="value" value="1"/></item>
+<item name="NumNodesOfType_Gnd_GENERIC" rev="16">
+<attrib name="value" value="1"/></item>
+<item name="NumNodesOfType_Gnd_IOBIN2OUT" rev="16">
+<attrib name="value" value="1"/></item>
+<item name="NumNodesOfType_Gnd_IOBOUTPUT" rev="16">
+<attrib name="value" value="1"/></item>
+<item name="NumNodesOfType_Gnd_OUTBOUND" rev="16">
+<attrib name="value" value="1"/></item>
+<item name="NumNodesOfType_Gnd_OUTPUT" rev="16">
+<attrib name="value" value="2"/></item>
+<item name="NumNodesOfType_Gnd_PADINPUT" rev="16">
+<attrib name="value" value="1"/></item>
+<item name="NumNodesOfType_Gnd_PINFEED" rev="16">
+<attrib name="value" value="1"/></item>
+<item name="NumNodesOfType_Gnd_SINGLE" rev="16">
+<attrib name="value" value="1"/></item>
+</group>
+<group name="SiteStatistics">
+<item name="IOB-IOBM" rev="16">
+<attrib name="value" value="1"/></item>
+</group>
+<group name="MiscellaneousStatistics">
+<item name="AGG_BONDED_IO" rev="15">
+<attrib name="value" value="1"/></item>
+<item name="AGG_IO" rev="15">
+<attrib name="value" value="1"/></item>
+<item name="NUM_BONDED_IOB" rev="15">
+<attrib name="value" value="1"/></item>
+</group>
+</DesignStatistics>
+<DeviceUsage TimeStamp="Sat Jul 17 16:35:16 2021"><group name="SiteSummary">
+<item name="IOB" rev="16">
+<attrib name="total" value="1000000"/><attrib name="used" value="1"/></item>
+<item name="IOB_OUTBUF" rev="16">
+<attrib name="total" value="1000000"/><attrib name="used" value="1"/></item>
+<item name="PAD" rev="16">
+<attrib name="total" value="1000000"/><attrib name="used" value="1"/></item>
+</group>
+</DeviceUsage>
+<ReportConfigData TimeStamp="Sat Jul 17 16:35:16 2021"><group name="REG_SR">
+<item name="CK" rev="14">
+<attrib name="CK" value="9"/><attrib name="CK_INV" value="0"/></item>
+<item name="LATCH_OR_FF" rev="14">
+<attrib name="FF" value="9"/></item>
+<item name="SRINIT" rev="14">
+<attrib name="SRINIT0" value="9"/></item>
+<item name="SYNC_ATTR" rev="14">
+<attrib name="ASYNC" value="8"/><attrib name="SYNC" value="1"/></item>
+</group>
+<group name="IOB_OUTBUF">
+<item name="DRIVEATTRBOX" rev="16">
+<attrib name="12" value="1"/></item>
+<item name="SLEW" rev="16">
+<attrib name="SLOW" value="1"/></item>
+<item name="SUSPEND" rev="16">
+<attrib name="3STATE" value="1"/></item>
+</group>
+<group name="SLICEX">
+<item name="CLK" rev="14">
+<attrib name="CLK" value="4"/><attrib name="CLK_INV" value="0"/></item>
+</group>
+</ReportConfigData>
+<ReportPinData TimeStamp="Sat Jul 17 16:35:16 2021"><group name="REG_SR">
+<item name="CK" rev="14">
+<attrib name="value" value="9"/></item>
+<item name="D" rev="14">
+<attrib name="value" value="9"/></item>
+<item name="Q" rev="14">
+<attrib name="value" value="9"/></item>
+<item name="SR" rev="14">
+<attrib name="value" value="1"/></item>
+</group>
+<group name="SLICEL">
+<item name="A5" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="A6" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="AMUX" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="B5" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="B6" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="BMUX" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="C5" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="C6" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="CIN" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="CMUX" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="COUT" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="D5" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="D6" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="DMUX" rev="14">
+<attrib name="value" value="2"/></item>
+</group>
+<group name="IOB_OUTBUF">
+<item name="IN" rev="16">
+<attrib name="value" value="1"/></item>
+<item name="OUT" rev="16">
+<attrib name="value" value="1"/></item>
+</group>
+<group name="SLICEX">
+<item name="A2" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="A3" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="A4" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="A5" rev="14">
+<attrib name="value" value="4"/></item>
+<item name="A6" rev="14">
+<attrib name="value" value="4"/></item>
+<item name="AQ" rev="14">
+<attrib name="value" value="4"/></item>
+<item name="B" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="B1" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="B2" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="B3" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="B4" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="B5" rev="14">
+<attrib name="value" value="4"/></item>
+<item name="B6" rev="14">
+<attrib name="value" value="4"/></item>
+<item name="BQ" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="C" rev="14">
+<attrib name="value" value="3"/></item>
+<item name="C1" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="C2" rev="14">
+<attrib name="value" value="3"/></item>
+<item name="C3" rev="14">
+<attrib name="value" value="3"/></item>
+<item name="C4" rev="14">
+<attrib name="value" value="3"/></item>
+<item name="C5" rev="14">
+<attrib name="value" value="4"/></item>
+<item name="C6" rev="14">
+<attrib name="value" value="4"/></item>
+<item name="CLK" rev="14">
+<attrib name="value" value="4"/></item>
+<item name="CMUX" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="CQ" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="D" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="D1" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="D2" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="D3" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="D4" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="D5" rev="14">
+<attrib name="value" value="3"/></item>
+<item name="D6" rev="14">
+<attrib name="value" value="3"/></item>
+<item name="DQ" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="SR" rev="14">
+<attrib name="value" value="1"/></item>
+</group>
+<group name="BUFG_BUFG">
+<item name="I0" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="O" rev="14">
+<attrib name="value" value="1"/></item>
+</group>
+<group name="PAD">
+<item name="PAD" rev="16">
+<attrib name="value" value="1"/></item>
+</group>
+<group name="IOB_INBUF">
+<item name="OUT" rev="14">
+<attrib name="value" value="10"/></item>
+<item name="PAD" rev="14">
+<attrib name="value" value="10"/></item>
+</group>
+<group name="CARRY4">
+<item name="CIN" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="CO3" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="CYINIT" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="DI0" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="DI1" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="DI2" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="DI3" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="O0" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="O1" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="O2" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="O3" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="S0" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="S1" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="S2" rev="14">
+<attrib name="value" value="2"/></item>
+<item name="S3" rev="14">
+<attrib name="value" value="2"/></item>
+</group>
+<group name="LUT5">
+<item name="A2" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="A3" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="A4" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="A5" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="O5" rev="14">
+<attrib name="value" value="8"/></item>
+</group>
+<group name="LUT6">
+<item name="A1" rev="14">
+<attrib name="value" value="4"/></item>
+<item name="A2" rev="14">
+<attrib name="value" value="6"/></item>
+<item name="A3" rev="14">
+<attrib name="value" value="7"/></item>
+<item name="A4" rev="14">
+<attrib name="value" value="7"/></item>
+<item name="A5" rev="14">
+<attrib name="value" value="22"/></item>
+<item name="A6" rev="14">
+<attrib name="value" value="23"/></item>
+<item name="O6" rev="14">
+<attrib name="value" value="23"/></item>
+</group>
+<group name="IOB_IMUX">
+<item name="I" rev="14">
+<attrib name="value" value="10"/></item>
+<item name="OUT" rev="14">
+<attrib name="value" value="10"/></item>
+</group>
+<group name="IOB">
+<item name="O" rev="16">
+<attrib name="value" value="1"/></item>
+<item name="PAD" rev="16">
+<attrib name="value" value="1"/></item>
+</group>
+<group name="HARD0">
+<item name="0" rev="14">
+<attrib name="value" value="1"/></item>
+</group>
+<group name="BUFG">
+<item name="I0" rev="14">
+<attrib name="value" value="1"/></item>
+<item name="O" rev="14">
+<attrib name="value" value="1"/></item>
+</group>
+</ReportPinData>
+<CmdHistory>
+</CmdHistory>
+</DeviceUsageSummary>

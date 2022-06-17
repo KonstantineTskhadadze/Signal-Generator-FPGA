@@ -1,0 +1,29 @@
+Release 14.7 Map P.20131013 (nt64)
+Xilinx Mapping Report File for Design 'waveform'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xa6slx4-csg225-3 -w -logic_opt off -ol
+high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off
+-pr off -lc off -power off -o waveform_map.ncd waveform.ngd waveform.pcf 
+Target Device  : xa6slx4
+Target Package : csg225
+Target Speed   : -3
+Mapper Version : aspartan6 -- $Revision: 1.55 $
+Mapped Date    : Thu Jul 15 16:32:16 2021
+
+Design Summary
+--------------
+Number of errors   :   2
+Number of warnings :   0
+
+Section 1 - Errors
+------------------
+ERROR:Map:116 - The design is empty.  No processing will be done.
+ERROR:Map:52 - Problem encountered processing RPMs. 
+
+Section 2 - Warnings
+--------------------
+
+Section 3 - Informational
+-------------------------

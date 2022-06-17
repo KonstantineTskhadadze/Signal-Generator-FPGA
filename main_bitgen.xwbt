@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\ktskh\VHDL\Sakurso\main.ncd
+OUTFILE=C:\Users\ktskh\VHDL\Sakurso\main.bit
+FAMILY=Automotive Spartan6
+PART=xa6slx4-3csg225
+WORKINGDIR=C:\Users\ktskh\VHDL\Sakurso
+LICENSE=WebPack
+USER_INFO=__0_0_0

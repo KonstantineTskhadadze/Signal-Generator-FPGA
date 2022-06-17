@@ -1,0 +1,48 @@
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa6slx4-csg225-3 waveform.ngc waveform.ngd  
+map -intstyle ise -p xa6slx4-csg225-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o waveform_map.ncd waveform.ngd waveform.pcf 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa6slx4-csg225-3 waveform.ngc waveform.ngd  
+map -intstyle ise -p xa6slx4-csg225-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o waveform_map.ncd waveform.ngd waveform.pcf 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa6slx4-csg225-3 waveform.ngc waveform.ngd  
+map -intstyle ise -p xa6slx4-csg225-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o waveform_map.ncd waveform.ngd waveform.pcf 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa6slx4-csg225-3 waveform.ngc waveform.ngd  
+map -intstyle ise -p xa6slx4-csg225-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o waveform_map.ncd waveform.ngd waveform.pcf 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa6slx4-csg225-3 waveform.ngc waveform.ngd  
+map -intstyle ise -p xa6slx4-csg225-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o waveform_map.ncd waveform.ngd waveform.pcf 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa6slx4-csg225-3 waveform.ngc waveform.ngd  
+map -intstyle ise -p xa6slx4-csg225-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o waveform_map.ncd waveform.ngd waveform.pcf 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+xst -intstyle ise -ifn "C:/Users/ktskh/VHDL/Sakurso/waveform.xst" -ofn "C:/Users/ktskh/VHDL/Sakurso/waveform.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa6slx4-csg225-3 waveform.ngc waveform.ngd  
+map -intstyle ise -p xa6slx4-csg225-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o waveform_map.ncd waveform.ngd waveform.pcf 
